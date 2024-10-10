@@ -1,48 +1,48 @@
 # project-E-ticket_persela
 
-## halaman 
+## halaman home
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/1.png?raw=true)
 
-## halaman 
+## halaman info
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/2.png?raw=true)
 
-## halaman 
+## halaman tiket pertandingan
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/3.png?raw=true)
 
-## halaman 
+## halaman cara pemesanan
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/4.png?raw=true)
 
-## halaman 
+## halaman sponsor
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/5.png?raw=true)
 
-## halaman 
+## halaman contact
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/6.png?raw=true)
 
-## halaman 
+## halaman hasil pertandingan
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/7.png?raw=true)
 
-## halaman 
+## halaman konfirmasi
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/8.png?raw=true)
 
-## halaman 
+## halaman pembatalan
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/3.png?raw=true)
 
-## halaman 
+## halaman dasboard admin
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/9.png?raw=true)
 
-## halaman 
+## halaman jadwal pertandingan
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/10.png?raw=true)
 
-## halaman 
+## halaman kompetisi
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/11.png?raw=true)
 
-## halaman 
+## halaman klub
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/12.png?raw=true)
 
-## halaman 
+## halaman sponsor
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/13.png?raw=true)
 
-## halaman 
+## halaman konfigurasi tiket
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/14.png?raw=true)
 
 ## halaman 
