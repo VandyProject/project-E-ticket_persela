@@ -116,7 +116,7 @@
                         <div class="recent-project">
                             <div class="section-header">
                                 <h2><?= $k2['nama_klub'] ?> <?= $k['skor_tuan_match'] ?> VS <?= $k['skor_tamu_match'] ?> <?= $k3['nama_klub'] ?></h2>
-                                <p>Janji Setia Persibat Batang</p>
+                                <p>Laskar Joko Tingkir</p>
                             </div>
                             <div class="portfolio-items">
                                 
