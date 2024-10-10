@@ -148,8 +148,8 @@
                                 <div class="col-md-8">
                                     <div class="about-greenforest-content">
                                         <h2>E-Tic</h2>
-                                        <p><span>Electronic Ticketing Persibat, selangkah lebih maju dengan Digitalisasi</span></p>
-                                        <p>E-Tic atau Electronic Ticketing Persibat adalah sebuah sistem yang berfungsi untuk menjual Ticket persela secara Online, Melakukan perhitungan penonton secara sistem dan juga sebagai Wujud Transparansi Persibat untuk Masyarakat Kabupaten lamongan.</p>
+                                        <p><span>Electronic Ticketing Persela, selangkah lebih maju dengan Digitalisasi</span></p>
+                                        <p>E-Tic atau Electronic Ticketing Persela adalah sebuah sistem yang berfungsi untuk menjual Ticket persela secara Online, Melakukan perhitungan penonton secara sistem dan juga sebagai Wujud Transparansi Persibat untuk Masyarakat Kabupaten lamongan.</p>
                                     </div>
                                     <!-- .about-greenforest-content -->
                                 </div>
