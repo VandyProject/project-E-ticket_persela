@@ -1,0 +1,25 @@
+[18-Jul-2019 10:18:46 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 528385 bytes) in /home/k8756662/public_html/eticbat/application/third_party/mpdf60/mpdf.php on line 11387
+[18-Jul-2019 10:54:06 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 653502 bytes) in /home/k8756662/public_html/eticbat/application/third_party/mpdf60/mpdf.php on line 11387
+[18-Jul-2019 10:55:19 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 653502 bytes) in /home/k8756662/public_html/eticbat/application/third_party/mpdf60/mpdf.php on line 11387
+[18-Jul-2019 10:57:03 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 653502 bytes) in /home/k8756662/public_html/eticbat/application/third_party/mpdf60/mpdf.php on line 11387
+[06-Aug-2019 11:36:30 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/k8756662/public_html/eticbat/application/libraries/phpqrcode/qrmask.php on line 234
+[06-Aug-2019 11:38:03 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/k8756662/public_html/eticbat/application/third_party/mpdf60/mpdf.php on line 11387
+[06-Aug-2019 12:14:09 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65552 bytes) in /home/k8756662/public_html/eticbat/application/third_party/mpdf60/mpdf.php on line 11516
+[06-Aug-2019 12:21:18 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130968 bytes) in /home/k8756662/public_html/eticbat/application/third_party/mpdf60/mpdf.php on line 6615
+[06-Aug-2019 19:21:03 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k8756662/public_html/eticbat/application/views/header.php on line 14
+[06-Aug-2019 19:21:52 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k8756662/public_html/eticbat/application/views/header.php on line 14
+[06-Aug-2019 19:24:43 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k8756662/public_html/eticbat/application/views/header.php on line 14
+[06-Aug-2019 17:19:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/k8756662/public_html/eticbat/application/controllers/Buy.php on line 347
+[06-Aug-2019 17:19:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/k8756662/public_html/eticbat/application/controllers/Buy.php on line 347
+[06-Aug-2019 17:19:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/k8756662/public_html/eticbat/application/controllers/Buy.php on line 347
+[06-Aug-2019 17:19:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/k8756662/public_html/eticbat/application/controllers/Buy.php on line 347
+[06-Aug-2019 17:19:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/k8756662/public_html/eticbat/application/controllers/Buy.php on line 347
+[06-Aug-2019 17:19:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/k8756662/public_html/eticbat/application/controllers/Buy.php on line 347
+[06-Aug-2019 17:20:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/k8756662/public_html/eticbat/application/controllers/Buy.php on line 352
+[06-Aug-2019 17:20:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/k8756662/public_html/eticbat/application/controllers/Buy.php on line 352
+[06-Aug-2019 17:20:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/k8756662/public_html/eticbat/application/controllers/Buy.php on line 352
+[06-Aug-2019 17:21:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/k8756662/public_html/eticbat/application/controllers/Buy.php on line 352
+[16-Aug-2019 09:16:41 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/k8756662/public_html/eticbat/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[16-Aug-2019 09:16:50 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/k8756662/public_html/eticbat/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[13-Apr-2020 15:31:43 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/k8756662/public_html/eticbat/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[15-May-2020 19:31:27 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/k8756662/public_html/eticbat/system/database/drivers/mysqli/mysqli_driver.php on line 391
