@@ -7,7 +7,7 @@
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/2.png?raw=true)
 
 ## halaman tiket pertandingan
-![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/3.png?raw=true)
+![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/21.png?raw=true)
 
 ## halaman cara pemesanan
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/4.png?raw=true)
@@ -20,6 +20,9 @@
 
 ## halaman hasil pertandingan
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/7.png?raw=true)
+
+## halaman pembelian
+![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/20.png?raw=true)
 
 ## halaman konfirmasi
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/8.png?raw=true)
