@@ -25,25 +25,25 @@
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/8.png?raw=true)
 
 ## halaman pembatalan
-![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/3.png?raw=true)
-
-## halaman dasboard admin
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/9.png?raw=true)
 
-## halaman jadwal pertandingan
+## halaman dasboard admin
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/10.png?raw=true)
 
-## halaman kompetisi
+## halaman jadwal pertandingan
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/11.png?raw=true)
 
-## halaman klub
+## halaman kompetisi
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/12.png?raw=true)
 
-## halaman sponsor
+## halaman klub
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/13.png?raw=true)
 
-## halaman konfigurasi tiket
+## halaman sponsor
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/14.png?raw=true)
+
+## halaman konfigurasi tiket
+![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/15.png?raw=true)
 
 ## halaman 
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/15.png?raw=true)
