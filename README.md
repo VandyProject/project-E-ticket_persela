@@ -48,8 +48,6 @@
 ## halaman konfigurasi tiket
 ![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/15.png?raw=true)
 
-## halaman tiket admin
-![alt text](https://github.com/VandyProject/project-E-ticket_persela/blob/main/foto/15.png?raw=true)
 
 
 ### info detail Email novandyfahrizalfanani@gmail.com
